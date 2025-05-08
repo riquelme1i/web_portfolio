@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Special+Gothic+Condensed+One&display=swap');
+body {
+    font-size: 3.5rem; /* 24px = fonte media do browser 1 rem = 16px */
+    font-family: "Special Gothic Condensed One", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    background-color: #000000;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 1600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #1d1d1d;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.item {
+    padding: 15px 20px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.Portfolio {
+    
+    background-color: #2f00ff;
+    color: #000000;
+}
+
+.amarelo {
+    background-color: #FFC107;
+    color: #000000;
+}
+
+.vermelho {
+    background-color: #DC3545;
+    color: #000000;
+}
