@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Special+Gothic+Condensed+One&display=swap');
+
+body {
+    font-size: 1.2rem;
+    font-family: "Special Gothic Condensed One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #000000;
+    padding: 20px;
+    color: #F6F6F6;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 30px;
+    background-color: #1d1d1d;
+    border-radius: 8px;
+}
+
+.Botao {
+    display: flex;
+    gap: 80px;
+    padding: -5% 0% 0% 5%;/* topo, direita, baixo, esquerda */
+}
+
+.cabeçalho_Botao{
+    font-size: 1.5rem; /* 24px = fonte media do browser 1 rem = 16px */
+    font-family: "Special Gothic Condensed One", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color:#F6F6F6;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: #ffffff;
+    margin-bottom: 5px;
+}
+
+section {
+    margin-bottom: 25px;
+}
+
+.resumo {
+    font-size: 1.2rem;
+    color: #ffffff;
+    border-bottom: 2px solid #ffffff;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+}
+
+.experiencia {
+    font-size: 1.2rem;
+    color: #ffffff;
+    border-bottom: 2px solid #ffffff;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+}
+
+.Trabalho {
+    margin-bottom: 15px;
+    font-size: 1.2rem;
+    color: #ffffff;
+    border-bottom: 2px solid #ffffff;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+}
+
+.Formacao {
+    margin-bottom: 15px;
+    font-size: 1.2rem;
+    color: #ffffff;
+    border-bottom: 2px solid #ffffff;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+}
+
+.Habilidades {
+    margin-bottom: 15px;
+    font-size: 1.2rem;
+    color: #ffffff;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+}
